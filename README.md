@@ -1,4 +1,4 @@
-Login/SignUp Authorization app project, using Node.js 
+Login/SignUp Authentication app project, using Node.js 
 
 For demonstration purposes, please install the node.js package on your device
 https://nodejs.org/en/download/current
